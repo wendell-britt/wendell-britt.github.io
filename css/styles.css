@@ -1,0 +1,17 @@
+.skills {
+  float: left;
+}
+
+.tonelogo{
+  float: right;
+  margin-right: 20px;
+  border: 2px black;
+
+
+}
+
+img{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}

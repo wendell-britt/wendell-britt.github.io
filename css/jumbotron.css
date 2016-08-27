@@ -1,0 +1,14 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+  background-image: url(http://i.imgur.com/dBC5ZkN.jpg);
+  background-size: cover;
+  color: #fff;
+  min-height: 500px;
+  text-shadow: 2px 2px #000;
+}

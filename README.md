@@ -1,16 +1,14 @@
-# wendell-britt.github.io
 
-# Project Name
-ABOUT ME
+# About Me
 
-This is a website detailing my most recent projects and detialed information about me.
+This is a website detailing my most recent projects and detailed information about me.
 
 ## Installation
 
 Go to https://wendell-britt.github.io/Aboutme/ in your preferred web browser.
 
 ## Usage
-check back frequently for updates.
+check back frequently for updates to the information.
 
 ## Contributing
 
